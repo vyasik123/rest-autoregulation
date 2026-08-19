@@ -5,6 +5,8 @@ A computational modeling project investigating how negative autoregulation and c
 **Course:** C&S BIO M178 — Quantitative Regulatory Biology and Signal Transduction, UCLA  
 **Project:** Final Course Project
 
+**December 2025**
+
 ## Overview
 
 The RE1-silencing transcription factor (REST) is a transcriptional repressor involved in neuronal differentiation and regulation of neuronal genes. REST functions together with corepressors such as mSin3 and CoREST to suppress gene expression.
